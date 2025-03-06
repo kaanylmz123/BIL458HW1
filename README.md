@@ -16,7 +16,7 @@ This program takes two binary strings as input, removes any leading zeros, and r
 ### Steps to Execute
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kaanylmz123/BIL458HW1.git
+   git clone https://github.com/kaanylmz123/BIL458HW1_22197370.git
    cd BIL458HW1
    ```
 2. Run the Python script:
